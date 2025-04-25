@@ -115,6 +115,16 @@ const pages = [
         image: 'assets/harold.jpeg',
         title: 'harold 1',
     },
+    {
+        id: 16,
+        image: 'assets/kulu 1.jpeg',
+        title: 'kulu 1',
+    },
+    {
+        id: 17,
+        image: 'assets/hege.jpeg',
+        title: 'hege',
+    },
 ];
 
 // Sort alphabetically by title
