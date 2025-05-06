@@ -130,6 +130,21 @@ const pages = [
         image: 'assets/kulu 2.jpeg',
         title: 'kulu 2',
     },
+    {
+        id: 19,
+        image: 'assets/titcoin.jpeg',
+        title: 'titcoin',
+    },
+    {
+        id: 20,
+        image: 'assets/stash.jpeg',
+        title: 'stash',
+    },
+    {
+        id: 21,
+        image: 'assets/grby.jpeg',
+        title: 'grby',
+    },
 ];
 
 // Sort alphabetically by title
