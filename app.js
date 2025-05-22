@@ -97,7 +97,7 @@ const pages = [
     },
     {
         id: 12,
-        image: 'assets/chadonic.jpg',
+        image: 'assets/chadonic.jpeg',
         title: 'chadonic',
     },
     {
@@ -144,6 +144,16 @@ const pages = [
         id: 21,
         image: 'assets/grby.jpeg',
         title: 'grby',
+    },
+    {
+        id: 22,
+        image: 'assets/floki 1.jpeg',
+        title: 'floki 1',
+    },
+    {
+        id: 23,
+        image: 'assets/floki 2.jpeg',
+        title: 'floki 2',
     },
 ];
 
