@@ -152,8 +152,23 @@ const pages = [
     },
     {
         id: 23,
+        image: 'assets/zeus.jpeg',
+        title: 'zeus',
+    },
+    {
+        id: 24,
+        image: 'assets/springer.jpeg',
+        title: 'springer',
+    },
+    {
+        id: 25,
         image: 'assets/floki 2.jpeg',
         title: 'floki 2',
+    },
+    {
+        id: 26,
+        image: 'assets/klaus.jpeg',
+        title: 'klaus',
     },
 ];
 
