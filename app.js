@@ -158,7 +158,7 @@ const pages = [
     {
         id: 24,
         image: 'assets/springer.jpeg',
-        title: 'springer',
+        title: 'springer 1',
     },
     {
         id: 25,
@@ -169,6 +169,11 @@ const pages = [
         id: 26,
         image: 'assets/klaus.jpeg',
         title: 'klaus',
+    },
+    {
+        id: 27,
+        image: 'assets/springer 2.jpeg',
+        title: 'springer 2',
     },
 ];
 
