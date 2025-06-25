@@ -175,6 +175,11 @@ const pages = [
         image: 'assets/springer 2.jpeg',
         title: 'springer 2',
     },
+    {
+        id: 28,
+        image: 'assets/zeus, pepecat & skop.jpeg',
+        title: 'zeus, pepecat & skop',
+    },
 ];
 
 // Sort alphabetically by title
