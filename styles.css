@@ -836,4 +836,21 @@ header {
   .social img {
     filter: invert(0);
   }
+
+  .profile {
+    background-image: url(assets/pattern-rings-light.svg);
+  }
+
+  .pfp {
+    background-image: url(assets/pattern-circle-light.svg);
+  }
+
+  .experience-and-projects {
+    background-image: url(assets/pattern-rings-light.svg);
+  }
+
+  .footer {
+    background-image: url(assets/pattern-rings-light.svg);
+
+  }
 }
