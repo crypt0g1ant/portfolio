@@ -43,7 +43,7 @@ const pages = [
     {
         id: 1,
         image: 'assets/pfp.jpeg',
-        title: 'I eat doge',
+        title: 'I eat doge&#8482;',
     },
     {
         id: 2,
@@ -194,6 +194,21 @@ const pages = [
         id: 31,
         image: 'assets/orc.jpeg',
         title: 'orc',
+    },
+    {
+        id: 32,
+        image: 'assets/iceland.jpeg',
+        title: 'iceland',
+    },
+    {
+        id: 33,
+        image: 'assets/fartless.jpeg',
+        title: 'fartless',
+    },
+    {
+        id: 34,
+        image: 'assets/fugz&gugo.jpeg',
+        title: 'fugz & gugo',
     },
 ];
 

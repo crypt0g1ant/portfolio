@@ -31,6 +31,7 @@ body {
   font-family: var(--ff);
   justify-content: center;
   margin: 4vw 0vw 0vw 0vw;
+  user-select: none;
 }
 
 header {
