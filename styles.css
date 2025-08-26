@@ -821,3 +821,19 @@ header {
     display: none;
   }
 }
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --clr-black: hsl(0, 0%, 100%);
+    --clr-grey: hsl(0, 0%, 60%);
+    --clr-blue: hsl(41.7, 100%, 48.80%);
+    --clr-white: hsl(0, 0%, 8%);
+    --clr-light-grey: hsl(0, 0%, 50%);
+    --clr-red: hsl(7, 100%, 68%);
+  }
+
+  .social img {
+    filter: invert(0);
+  }
+}
