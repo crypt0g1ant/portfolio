@@ -210,6 +210,46 @@ const pages = [
         image: 'assets/fugz&gugo.jpeg',
         title: 'fugz & gugo',
     },
+    {
+        id: 35,
+        image: 'assets/pexebel.jpeg',
+        title: 'pexebel',
+    },
+    {
+        id: 36,
+        image: 'assets/bnkk1.jpeg',
+        title: 'bnkk 1',
+    },
+    {
+        id: 37,
+        image: 'assets/bnkk2.jpeg',
+        title: 'bnkk 2',
+    },
+    {
+        id: 38,
+        image: 'assets/sentient1.jpeg',
+        title: 'sentient 1',
+    },
+    {
+        id: 39,
+        image: 'assets/sentient2.jpeg',
+        title: 'sentient 2',
+    },
+    {
+        id: 40,
+        image: 'assets/sentient3.jpeg',
+        title: 'sentient 3',
+    },
+    {
+        id: 41,
+        image: 'assets/sentient4.jpeg',
+        title: 'sentient 4',
+    },
+    {
+        id: 42,
+        image: 'assets/sentient5.jpeg',
+        title: 'sentient 5',
+    },
 ];
 
 // Sort alphabetically by title
